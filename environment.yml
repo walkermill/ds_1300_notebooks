@@ -284,7 +284,7 @@ dependencies:
   - pexpect=4.8.0=pyh9f0ad1d_2
   - pickleshare=0.7.5=py_1003
   - pillow=9.1.0=py39hae2aec6_2
-  - pip=22.1=pyhd8ed1ab_0
+  - pip=22.1.2=pyhd8ed1ab_0
   - pixman=0.40.0=h36c2ea0_0
   - poppler=22.04.0=h1434ded_0
   - poppler-data=0.4.11=hd8ed1ab_0
